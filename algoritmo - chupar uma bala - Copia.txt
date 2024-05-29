@@ -1,0 +1,4 @@
+1- pega a bala
+2- se a bala tiver papel
+ tira o papel da bala
+3 - se a bala tiver embalagem jogar no lixo
